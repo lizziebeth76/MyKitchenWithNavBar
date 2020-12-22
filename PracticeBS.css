@@ -1,0 +1,12 @@
+body {
+	background-color: #A2DED0;
+}
+nav {
+    font-size:1.2em;
+}
+footer {
+	background-color: #D64541;
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
