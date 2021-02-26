@@ -1,0 +1,19 @@
+body {
+	background-color: #A2DED0;
+	font-size: large;
+}
+nav {
+    font-size:1.2em;
+}
+footer {
+	background-color: red;
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
+.font {
+	font-size: smaller;
+}
+.centered {
+	text-align: center;
+}
